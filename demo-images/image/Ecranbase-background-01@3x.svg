@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="900px" viewBox="0 0 1600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Ecranbase-background-01@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Prototype" transform="translate(0.000000, -5637.000000)">
+            <g id="Ecranbase-02" transform="translate(0.000000, 5637.000000)"></g>
+            <g id="Ecranbase-01" transform="translate(-79.000000, 5637.000000)">
+                <g id="用水量">
+                    <g id="Group-7" transform="translate(79.000000, 0.000000)" fill="#2C49B0">
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="1600" height="900"></rect>
+                    </g>
+                    <g id="水波纹" transform="translate(0.000000, 220.000000)"></g>
+                </g>
+                <ellipse id="Oval-3" fill="#417BFC" cx="471" cy="81.5" rx="12" ry="17.5"></ellipse>
+            </g>
+            <g id="03" transform="translate(0.000000, 4356.000000)">
+                <g id="background"></g>
+                <g id="carre" transform="translate(215.000000, 1.000000)" fill="#1D2375">
+                    <g id="水龙头" transform="translate(139.000000, 1135.000000)">
+                        <rect id="Rectangle-10" transform="translate(39.811966, 113.250000) rotate(90.000000) translate(-39.811966, -113.250000) " x="-18.4380342" y="92.4380342" width="116.5" height="41.6239316" rx="7"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="627px" viewBox="0 0 1600 627" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Ecranbase-violet@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Prototype" transform="translate(0.000000, -5910.000000)">
+            <g id="Ecranbase-02" transform="translate(0.000000, 5637.000000)"></g>
+            <g id="Ecranbase-01" transform="translate(-79.000000, 5637.000000)">
+                <g id="用水量">
+                    <g id="Group-7" transform="translate(79.000000, 0.000000)"></g>
+                    <g id="水波纹" transform="translate(0.000000, 220.000000)" fill="#42309F">
+                        <path d="M280.546875,319.898438 C453.52414,314.998709 478.171875,199.382813 679.359375,253.710938 C880.546875,308.039063 831.695313,122.40625 978.070313,88.0625 C1124.44531,53.71875 1051.21935,188.349549 1227.37624,223.604284 C1423.05593,199.393347 1375.01474,100.658972 1539.61843,62.6355342 C1649.35421,37.2865759 1714.73182,61.9532426 1735.75124,136.635534 L1721.86843,808.768347 L23.7903004,799.768347 C-7.93010015,518.435175 -7.93010015,349.931664 23.7903004,294.257813 C71.3709013,210.747035 107.56961,324.798166 280.546875,319.898438 Z" id="紫色"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

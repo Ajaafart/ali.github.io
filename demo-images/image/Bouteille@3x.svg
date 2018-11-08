@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="440px" viewBox="0 0 178 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Bouteille@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="36" width="178" height="404"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Prototype" transform="translate(-303.000000, -5822.000000)">
+            <g id="Ecranbase-02" transform="translate(0.000000, 5637.000000)"></g>
+            <g id="Ecranbase-01" transform="translate(-79.000000, 5637.000000)">
+                <g id="用水量">
+                    <g id="Group-7" transform="translate(79.000000, 0.000000)"></g>
+                    <g id="水波纹" transform="translate(0.000000, 218.000000)"></g>
+                    <g id="水瓶" transform="translate(382.000000, 185.000000)">
+                        <rect id="Rectangle-9-Copy-11" fill-opacity="0.324728261" fill="#57A0FF" x="29" y="0" width="114" height="348"></rect>
+                        <g id="Rectangle-9">
+                            <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#979797" stroke-width="1" x="0.5" y="36.5" width="177" height="403"></rect>
+                        </g>
+                        <rect id="Rectangle-9" fill="#64C0FF" x="0" y="36" width="178" height="12"></rect>
+                        <rect id="Rectangle-9-Copy-12" fill="#224BD5" x="0" y="181" width="178" height="138"></rect>
+                        <rect id="Rectangle-9-Copy-13" fill="#366EEB" x="0" y="76" width="178" height="46"></rect>
+                        <rect id="Rectangle-9-Copy-16" fill="#79B5FF" x="0" y="319" width="178" height="69"></rect>
+                        <rect id="Rectangle-9-Copy-17" fill="#FFBED3" x="0" y="381" width="178" height="59"></rect>
+                        <rect id="Rectangle-9-Copy-18" fill="#2459E4" x="0" y="122" width="178" height="59"></rect>
+                        <rect id="Rectangle-9-Copy-14" fill="#4F8EF6" x="0" y="48" width="178" height="28"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

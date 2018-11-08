@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1280px" viewBox="0 0 1600 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>01-background@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Prototype" transform="translate(0.000000, -1774.000000)">
+            <g id="01" transform="translate(0.000000, 1768.000000)">
+                <g id="background" transform="translate(0.000000, 6.000000)">
+                    <rect id="Rectangle-2-Copy-4" fill="#2C49B0" x="0" y="0" width="1600" height="1279.02418"></rect>
+                    <path d="M1013,1126.14551 L1199.52096,1126.14551 C1214.69722,1126.14551 1227,1138.44829 1227,1153.62454 L1227,1153.62454 C1227,1168.80079 1214.69722,1181.10358 1199.52096,1181.10358 L1013,1181.10358 L1013,1126.14551 Z" id="Rectangle-8-Copy" fill="#1D2375"></path>
+                    <path d="M1173,394.698869 L1227,394.698869 L1227,1154.10358 C1227,1169.01527 1214.91169,1181.10358 1200,1181.10358 L1200,1181.10358 C1185.08831,1181.10358 1173,1169.01527 1173,1154.10358 L1173,394.698869 Z" id="Rectangle-6" fill="#1D2375"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
